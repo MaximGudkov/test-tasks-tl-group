@@ -1,5 +1,7 @@
 # Тестовое задание в TL GROUP
 
+<img src="https://github.com/MaximGudkov/my-media/blob/main/photo1707406172.jpeg">
+
 **Запуск**:
 
 - `git clone https://github.com/MaximGudkov/portal.git` - клонирование репозитория
